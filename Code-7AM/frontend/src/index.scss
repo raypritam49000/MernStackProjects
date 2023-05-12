@@ -1,0 +1,10 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import '../node_modules/font-awesome/scss/font-awesome.scss';
+@import '../node_modules/slick-carousel/slick/slick.css';
+@import '../node_modules/slick-carousel/slick/slick-theme.css';
+
+@import './assets/scss/app.scss';
+
+.full-banner.parallax-banner1 {
+    background-image: url(assets/images/parallax/1.jpg);
+}
